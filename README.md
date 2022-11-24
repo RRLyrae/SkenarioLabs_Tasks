@@ -7,4 +7,4 @@ There are files here for two Tasks:
 Additional files: the 4 picture files used for testing the script + 3 files created when running the script.
 
 2) Data Quality analysis of gathered data. Insights presented in a pdf file. 
-Additional files: csv data file + field_definitions file.
+Additional files: field_definitions file (original data file not included as it is too big!).
